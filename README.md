@@ -1,4 +1,4 @@
-This will be a scrapy-base practice spider proj respository.
+This is a django practice proj respository.
 
 # welcome here
 
